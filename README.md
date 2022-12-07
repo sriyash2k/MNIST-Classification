@@ -1,3 +1,3 @@
 # MNIST_Classification
 
-Creating a neural network for classifying hand-written digits.
+Created a artificial neural network for classifying hand-written digits.
